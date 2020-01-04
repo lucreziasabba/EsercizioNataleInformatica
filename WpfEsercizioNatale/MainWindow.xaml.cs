@@ -40,7 +40,7 @@ namespace WpfEsercizioNatale
                         }
                     }
                 }
-                txtVotoMaggiore.Text = ($"Il voto più alto è {}");
+                txtVotoMaggiore.Text = ($"Il voto più alto è {}");  
                 x.Close();
             }
         }
